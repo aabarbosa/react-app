@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+Repository created with Hub (installation)
+sudo add-apt-repository ppa:cpick/hub
+sudo apt-get update
+sudo apt-get install hub
+
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
